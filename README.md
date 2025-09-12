@@ -1,6 +1,3 @@
-# Sales-Performance-Reporting
-This project automates monthly sales performance reporting using Salesforce Dashboards, eliminating manual Excel-based processes that are slow and error-prone. It provides real-time sales insights for managers and sales teams, enabling data-driven decisions.
-
 #Problem Statement
 
 Currently, monthly sales reports are prepared manually, leading to delays, errors, and lack of timely visibility.
