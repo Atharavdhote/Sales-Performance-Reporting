@@ -31,7 +31,7 @@ Dashboards & Reports: Summary, Matrix, Funnel, Pie & Bar charts
 
 Optional Development: Apex Classes, Scheduled Jobs, Lightning Web Components (LWC) for advanced customization
 
-#Project Phases
+#Project_Phases
 
 Problem Understanding & Requirement Gathering
 
